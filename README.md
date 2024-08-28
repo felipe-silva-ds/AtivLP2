@@ -1,14 +1,14 @@
 # Compilação e Execução
 
-#Compilação
+## Compilação
 
  gcc main.c -o quebra_senhas -pthread
 
-# Execução
+## Execução
 Para executar o programa, use o seguinte comando:
 
-##Para executar processos: 
+### Para executar processos: 
 ./quebra_senhas -p
 
--Para executar Threads:
+### -Para executar Threads:
 ./quebra_senhas -t

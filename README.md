@@ -7,7 +7,7 @@
 # Execução
 Para executar o programa, use o seguinte comando:
 
--Para executar processos: 
+##Para executar processos: 
 ./quebra_senhas -p
 
 -Para executar Threads:
